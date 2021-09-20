@@ -1,0 +1,50 @@
+{
+  "headTitle": "Home | Charles",
+  "header": "Home",
+  "hero": {
+    "title": "Hi, I'm Charles!",
+    "p0": "Full stack wizard, student, and entrepreneur",
+    "p1": "Future SWE Intern at",
+    "p2": "Previously",
+    "des0": "I'm a 2nd year computer science and business student at the University of Waterloo.",
+    "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
+    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL.",
+    "des3": "I'm currently building my own SASS startup, offerring virtual study spaces for students."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my favourite projects I've lead and developed. Not only were they super fun to code, but many of them are providing utilty to real people today!",
+    "msmr": {
+      "subtitle": "Contracted by Ryerson University",
+      "description": "Blog and research sharing web app under the MSMR brand belonging to Dr. Jenny Liu"
+    },
+    "hitea": {
+      "subtitle": "Global Bubble Tea Chain",
+      "description": "Landing page for an estblished brand with over 163 branches globally."
+    },
+    "productify": {
+      "subtitle": "Virtual Study Space Platform",
+      "description": "Currently in progress! This web app leverages social interaction and gamification to promote effective studying by individuals and groups."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Though I'm always excited to use the latest and greatest technologies, these are my tried and tested go to tools when building any project."
+  },
+  "experience": {
+    "title": "Experience",
+    "description": "These companies had the honour of having me on their team. Hopefully your company will be there to."
+  },
+  "contact": {
+    "title": "Want to connect?",
+    "description": "I really appreciate it when people go out of their way to get in touch. I'll make sure to get back to you as soon as possible!"
+  },
+  "currently": "Currently",
+  "citation": {
+    "content": "Please hire Charles. He's great!",
+    "author": "— Confucius"
+  },
+  "covid19": "Postponed due to Covid-19",
+  "and": "and",
+  "footer": "Crafted with NextJS, TailwindCSS, and Lots of ❤️"
+}
