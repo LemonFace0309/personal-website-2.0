@@ -8,7 +8,7 @@ export default {
     description: 'Home to the most employable developer known to man',
     images: [
       {
-        url: 'https://charlesliu.io/og-image-01.jpg',
+        url: 'https://charlesliu.io/og-image.jpg',
         width: 1080,
         height: 607,
         alt: 'OG Alt Portrait',
