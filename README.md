@@ -6,7 +6,7 @@
 
 ## ✨ Inspiration
 
-This project has been heavily inspired by Tamik. His GitHub repository can be found [here]('https://github.com/ironsoul0/ironsoul.ninja#--ironsoulninja-').
+This project has been heavily inspired by Tamik. His GitHub repository can be found (here)['https://github.com/ironsoul0/ironsoul.ninja#--ironsoulninja-'].
 
 ## 🛠 Wanna run on your machine?
 
