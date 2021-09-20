@@ -1,29 +1,17 @@
 export default {
   title: 'Charles Liu | Full Stack Developer',
   description: 'Home to the most employable developer known to man',
-  canonical: 'https://ironsoul.ninja',
+  canonical: 'https://charlesliu.io',
   openGraph: {
-    url: 'https://ironsoul.ninja',
+    url: 'https://charlesliu.io',
     title: 'Charles Liu | Full Stack Developer',
     description: 'Home to the most employable developer known to man',
     images: [
       {
-        url: 'https://ironsoul.ninja/og-image-01.png',
-        width: 800,
-        height: 600,
-        alt: 'Og Image Alt',
-      },
-      {
-        url: 'https://ironsoul.ninja/og-image-02.png',
-        width: 800,
-        height: 800,
-        alt: 'Og Image Alt 2',
-      },
-      {
-        url: 'https://ironsoul.ninja/og-image-03.png',
-        width: 900,
-        height: 800,
-        alt: 'Og Image Alt 3',
+        url: 'https://charlesliu.io/og-image-01.jpg',
+        width: 1080,
+        height: 607,
+        alt: 'OG Alt Portrait',
       },
     ],
     site_name: 'Charles Liu | Full Stack Developer',

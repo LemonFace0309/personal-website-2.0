@@ -16,7 +16,7 @@ export const Projects: FC = () => {
         technologies: ['NextJS', 'Material UI', 'Strapi'],
         externalLink: 'https://msmrtool.com/',
         githubLink: 'https://github.com/LemonFace0309/msmr',
-        imageLink: `/images/laddy.png`,
+        imageLink: `/images/msmr.png`,
       },
       {
         title: 'HiTea',
@@ -25,7 +25,7 @@ export const Projects: FC = () => {
         technologies: ['Django', 'Materialize CSS'],
         externalLink: 'https://hiteato.ca/',
         githubLink: 'https://github.com/Cache-and-Cookies/HiTea',
-        imageLink: `/images/nuopen.png`,
+        imageLink: `/images/hitea.png`,
       },
       {
         title: 'Productify',
@@ -34,7 +34,7 @@ export const Projects: FC = () => {
         technologies: ['NextJS', 'NodeJS', 'GraphQL'],
         externalLink: 'https://github.com/LemonFace0309/Study-Space',
         githubLink: 'https://github.com/LemonFace0309/Study-Space',
-        imageLink: `/images/railwayz.png`,
+        imageLink: `/images/productify.png`,
       },
     ],
     [t]

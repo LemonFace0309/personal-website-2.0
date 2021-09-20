@@ -13,20 +13,20 @@ This project has been heavily inspired by Tamik. His GitHub repository can be fo
 1. Clone the project
 
    ```sh
-   git clone https://github.com/ironsoul0/ironsoul.ninja.git
+   git clone https://github.com/LemonFace0309/personal-website-2.0.git
    ```
 
 1. Install the dependencies
 
    ```sh
-   cd ironsoul.ninja
-   yarn
+   cd personal-website-2.0
+   npm i
    ```
 
 3. Start the development server
 
    ```sh
-   yarn dev
+   npm run dev
    ```
 
 ## 🚁 Contributing
