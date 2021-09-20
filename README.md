@@ -13,10 +13,10 @@ This project has been heavily inspired by Tamik. His GitHub repository can be fo
 1. Clone the project
 
    ```sh
-   git clone https://github.com/LemonFace0309/personal-website-2.0.git
+   git clone https://github.com/LemonFace0309/personal-website-2.0
    ```
 
-1. Install the dependencies
+2. Install the dependencies
 
    ```sh
    cd personal-website-2.0
