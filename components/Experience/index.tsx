@@ -16,9 +16,9 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
-        title: 'Bitcoin Bay Intern',
-        place: 'Toronto, On',
-        date: 'July 2019 - September 2019',
+        title: 'Enzuzo Full Stack Intern',
+        place: 'Waterloo, On',
+        date: 'May 2021 - August 2021',
       },
       {
         title: 'Freelance Software Developer',
@@ -26,9 +26,9 @@ export const Experience: FC = () => {
         date: 'May 2020 - April 2021',
       },
       {
-        title: 'Enzuzo Full Stack Intern',
-        place: 'Waterloo, On',
-        date: 'May 2021 - August 2021',
+        title: 'Bitcoin Bay Intern',
+        place: 'Toronto, On',
+        date: 'July 2019 - September 2019',
       },
     ],
     []
