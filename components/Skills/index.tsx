@@ -3,17 +3,17 @@ import { useAnimation } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC, useEffect } from 'react';
 import { FaReact } from 'react-icons/fa';
-import { SiDjango, SiDocker, SiGraphql, SiJavascript, SiNodeDotJs } from 'react-icons/si';
+import { SiDjango, SiDocker, SiGraphql, SiNodeDotJs } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
-import { AwsIcon, MongoIcon } from './libs/Icons';
+import { AwsIcon, MongoIcon, TsIcon } from './libs/Icons';
 import { Skill } from './libs/Skill';
 
 const skills = [
   {
-    name: 'Javascript',
-    href: 'https://www.javascript.com/',
-    icon: <SiJavascript color="#F0DB4F" />,
+    name: 'Typescript',
+    href: 'https://www.typescriptlang.org/',
+    icon: <TsIcon />,
   },
   {
     name: 'React',

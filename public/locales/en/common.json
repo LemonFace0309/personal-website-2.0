@@ -8,7 +8,7 @@
     "p2": "Previously",
     "des0": "I'm a 2nd year computer science and business student at the University of Waterloo.",
     "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
-    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL.",
+    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL, though I'm always excited to use and learn different technologies.",
     "des3": "I'm currently building my own SASS startup, offerring virtual study spaces for students."
   },
   "projects": {
@@ -16,7 +16,7 @@
     "description": "Here are some of my favourite projects I've lead and developed. Not only were they super fun to code, but many of them are providing utilty to real people today!",
     "msmr": {
       "subtitle": "Contracted by Ryerson University",
-      "description": "Blog and research sharing web app under the MSMR brand belonging to Dr. Jenny Liu"
+      "description": "Blog and research sharing web app under the MSMR brand belonging to Dr. Jenny Liu."
     },
     "hitea": {
       "subtitle": "Global Bubble Tea Chain",
