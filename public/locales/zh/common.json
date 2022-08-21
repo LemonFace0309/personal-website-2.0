@@ -6,10 +6,10 @@
     "p0": "全栈向导、学生和企业家",
     "p1": "未来的 SWE 实习生",
     "p2": "以前",
-    "des0": "我是滑铁卢大学计算机科学和商科二年级学生。",
-    "des1": "我喜欢团队合作来创建高质量和复杂的软件。",
-    "des2": "我首选的技术栈涉及 React、NodeJS 和 GraphQL。",
-    "des3": "我目前正在建立自己的 SASS 初创公司，为学生提供虚拟学习空间。"
+    "des0": "I'm a 3rd year computer science specializing in SWE, AI, and business at the University of Waterloo.",
+    "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
+    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL, though I'm always excited to flex my other muscles.",
+    "des3": "I'm currently learning about genetic algorithms and developing a housing aggregator for students at my University."
   },
   "projects": {
     "title": "项目",
@@ -18,13 +18,13 @@
       "subtitle": "与瑞尔森大学签约",
       "description": "Jenny Liu 博士的 MSMR 品牌下的博客和研究共享网络应用程序"
     },
-    "hitea": {
-      "subtitle": "全球泡茶链",
-      "description": "一个在全球拥有超过 163 家分店的知名品牌的登陆页面"
+    "uwcribs": {
+      "subtitle": "Waterloo Student Housing Aggregator",
+      "description": "Instead of scrolling through Facebook endlessly every term to find a suitable place to live, we aggregated all available listings in a search engine to meet your specific needs."
     },
     "productify": {
-      "subtitle": "虚拟学习空间平台",
-      "description": "目前正在进行中！这个网络应用程序利用社交互动和游戏化来促进个人和团体的有效学习"
+      "subtitle": "Virtual Study Space Bot",
+      "description": "Live on Discord! This web app leverages social interaction and gamification to promote effective studying by individuals and groups."
     }
   },
    "skills":{
