@@ -6,7 +6,7 @@ import { FaReact } from 'react-icons/fa';
 import { SiDjango, SiDocker, SiGraphql, SiNodeDotJs } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
-import { AwsIcon, MongoIcon, TsIcon } from './libs/Icons';
+import { AwsIcon, EthereumIcon, MongoIcon, PostgresIcon, TsIcon } from './libs/Icons';
 import { Skill } from './libs/Skill';
 
 const skills = [
@@ -34,6 +34,16 @@ const skills = [
     name: 'MongoDB',
     href: 'https://www.mongodb.com/',
     icon: <MongoIcon />,
+  },
+  {
+    name: 'Postgres',
+    href: 'https://www.postgresql.org/',
+    icon: <PostgresIcon />,
+  },
+  {
+    name: 'Solidity',
+    href: 'https://docs.soliditylang.org/en/v0.8.16/',
+    icon: <EthereumIcon />,
   },
   {
     name: 'GraphQL',
@@ -69,7 +79,7 @@ export const Skills: FC = () => {
   return (
     <Section className="mt-20 mb-16 md:mt-28" title={t('skills.title')} description={t('skills.description')}>
       <Container>
-        <div className="max-w-lg mt-8 grid grid-cols-2 lg:grid-cols-4 gap-6" ref={ref}>
+        <div className="max-w-lg mt-8 grid grid-cols-2 lg:grid-cols-5 gap-6" ref={ref}>
           {skills.map((skill, i) => (
             <Skill {...skill} key={i} custom={i} controls={controls} />
           ))}

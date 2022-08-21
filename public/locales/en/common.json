@@ -6,10 +6,10 @@
     "p0": "Full stack wizard, student, and entrepreneur",
     "p1": "Future SWE intern at",
     "p2": "Previously",
-    "des0": "I'm a 2nd year computer science and business student at the University of Waterloo.",
+    "des0": "I'm a 3rd year computer science specializing in SWE, AI, and business at the University of Waterloo.",
     "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
-    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL, though I'm always excited to use and learn different technologies.",
-    "des3": "I'm currently building my own SASS startup, offerring virtual study spaces for students."
+    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL, though I'm always excited to flex my other muscles.",
+    "des3": "I'm currently learning about genetic algorithms and developing a housing aggregator for students at my University."
   },
   "projects": {
     "title": "Projects",
@@ -18,13 +18,13 @@
       "subtitle": "Contracted by Ryerson University",
       "description": "Blog and research sharing web app under the MSMR brand belonging to Dr. Jenny Liu."
     },
-    "hitea": {
-      "subtitle": "Global Bubble Tea Chain",
-      "description": "Landing page for an established brand with over 163 branches globally."
+    "uwcribs": {
+      "subtitle": "Waterloo Student Housing Aggregator",
+      "description": "Instead of scrolling through Facebook endlessly every term to find a suitable place to live, we aggregated all available listings in a search engine to meet your specific needs."
     },
     "productify": {
-      "subtitle": "Virtual Study Space Platform",
-      "description": "Currently in progress! This web app leverages social interaction and gamification to promote effective studying by individuals and groups."
+      "subtitle": "Virtual Study Space Bot",
+      "description": "Live on Discord! This web app leverages social interaction and gamification to promote effective studying by individuals and groups."
     }
   },
   "skills": {
