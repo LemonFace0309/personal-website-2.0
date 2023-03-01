@@ -14,7 +14,7 @@
   "projects": {
     "title": "项目",
     "description": "以下是我领导和开发的一些我最喜欢的项目。它们不仅编写代码非常有趣，而且其中许多现在为真人提供了实用工具！",
-    "msmr":{
+    "msmr": {
       "subtitle": "与瑞尔森大学签约",
       "description": "Jenny Liu 博士的 MSMR 品牌下的博客和研究共享网络应用程序"
     },
@@ -22,9 +22,9 @@
       "subtitle": "滑铁卢大学学生住房聚合器",
       "description": "我们没有在每个词条上无休止地浏览 Facebook 来寻找合适的居住地，而是在搜索引擎中汇总了所有可用列表以满足您的特定需求。"
     },
-    "productify": {
-      "subtitle": "虚拟学习空间机器人",
-      "description": "生活在不和谐！ 这个网络应用程序利用社交互动和游戏化来促进个人和团体的有效学习。"
+    "squiggles": {
+      "subtitle": "交互式社交网络图",
+      "description": "通过在图形界面中可视化我们的最短路径、页面排名和基于邻近度的排序算法，发现 Twitter 上隐藏的关系。"
     }
   },
    "skills":{

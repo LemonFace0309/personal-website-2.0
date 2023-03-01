@@ -45,9 +45,8 @@ export const Hero: FC = () => {
         <br />
         {t('hero.p1')} <HeroLink title="Your Company" href="" disabled />
         <br />
-        {t('hero.p2')} <HeroLink title="On Deck" href="https://www.beondeck.com/" />
-        {/* {t('and')}
-        <HeroLink title="new company" href="" /> */}
+        {t('hero.p2')} <HeroLink title="CertiK" href="https://www.certik.com/" /> {t('and')}{' '}
+        <HeroLink title="On Deck" href="https://www.beondeck.com/" />
       </p>
       <div className="flex mt-8">
         <MediaIcon

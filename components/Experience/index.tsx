@@ -16,6 +16,11 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
+        title: 'CertiK Software Engineer Intern',
+        place: 'New York, NY',
+        date: 'Jan 2023 - April 2023',
+      },
+      {
         title: 'On Deck Full Stack Product Engineer Intern',
         place: 'San Francisco, Ca',
         date: 'Jan 2022 - April 2022',
@@ -30,11 +35,11 @@ export const Experience: FC = () => {
         place: 'Toronto, On',
         date: 'May 2020 - April 2021',
       },
-      // {
-      //   title: 'Bitcoin Bay Intern',
-      //   place: 'Toronto, On',
-      //   date: 'July 2019 - September 2019',
-      // },
+      {
+        title: 'Bitcoin Bay Intern',
+        place: 'Toronto, On',
+        date: 'July 2019 - September 2019',
+      },
     ],
     []
   );
