@@ -2,7 +2,7 @@ import { Container, MediaIcon } from 'components';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC } from 'react';
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaPaperclip, FaTwitter } from 'react-icons/fa';
 
 import { HandWave } from './libs/HandWave';
 import { HeroLink } from './libs/HeroLink';
@@ -43,7 +43,7 @@ export const Hero: FC = () => {
       <p className="text-xl font-bold tracking-normal md:text-3xl text-black-700 dark:text-white-700">
         {t('hero.p0')}
         <br />
-        {t('hero.p1')} <HeroLink title="Your Company" href="" disabled />
+        {t('hero.p1')} <HeroLink title="Vercel" href="" disabled /> (Hopefully)
         <br />
         {t('hero.p2')} <HeroLink title="CertiK" href="https://www.certik.com/" /> {t('and')}{' '}
         <HeroLink title="On Deck" href="https://www.beondeck.com/" />
@@ -59,7 +59,15 @@ export const Hero: FC = () => {
           href="https://www.linkedin.com/in/charles-liu-%F0%9F%94%8C-294391152/"
           className="mr-4"
         />
-        <MediaIcon icon={<FaTwitter className="w-6 h-6 md:w-7 md:h-7" />} href="https://twitter.com/CharlesLiu9" />
+        <MediaIcon
+          icon={<FaTwitter className="w-6 h-6 md:w-7 md:h-7" />}
+          href="https://twitter.com/CharlesLiu9"
+          className="mr-4"
+        />
+        <MediaIcon
+          icon={<FaPaperclip className="w-6 h-6 md:w-7 md:h-7 animate-bounce hover:animate-spin" />}
+          href="https://www.dropbox.com/s/qw573dvqjyia7r2/Charles%20Liu%20-%20Software%20Developer.pdf?dl=0"
+        />
       </div>
       <div className="mt-10">
         <p className="mb-8 text-base md:text-xl dark:text-white-700 text-black-700">{t('hero.des0')}</p>

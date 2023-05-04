@@ -41,7 +41,7 @@ export const Projects: FC = () => {
   );
 
   return (
-    <Section className="md:mt-20 mt-14" title={t('projects.title')} description={t('projects.description')}>
+    <Section className="mt-20 mb-16 md:mt-28" title={t('projects.title')} description={t('projects.description')}>
       <div className="px-4 mx-auto mt-10 md:mt-20 md:px-8 max-w-screen-lg">
         {projects.map((project, i) => (
           <ProjectCard key={i} rightShift={i % 2 === 0} {...project} />

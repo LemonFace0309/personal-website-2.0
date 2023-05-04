@@ -77,7 +77,7 @@ export const Skills: FC = () => {
   }, [controls, inView]);
 
   return (
-    <Section className="mt-20 mb-16 md:mt-28" title={t('skills.title')} description={t('skills.description')}>
+    <Section className="md:mt-20 mt-14" title={t('skills.title')} description={t('skills.description')}>
       <Container>
         <div className="max-w-lg mt-8 grid grid-cols-2 lg:grid-cols-5 gap-6" ref={ref}>
           {skills.map((skill, i) => (
