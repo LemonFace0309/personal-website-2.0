@@ -43,7 +43,7 @@ export const Hero: FC = () => {
       <p className="text-xl font-bold tracking-normal md:text-3xl text-black-700 dark:text-white-700">
         {t('hero.p0')}
         <br />
-        {t('hero.p1')} <HeroLink title="Vercel" href="" disabled /> (Hopefully)
+        {t('hero.p1')} <HeroLink title="Your Company" href="" disabled />
         <br />
         {t('hero.p2')} <HeroLink title="CertiK" href="https://www.certik.com/" /> {t('and')}{' '}
         <HeroLink title="On Deck" href="https://www.beondeck.com/" />
