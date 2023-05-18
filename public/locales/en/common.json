@@ -3,12 +3,12 @@
   "header": "Home",
   "hero": {
     "title": "Hi, I'm Charles!",
-    "p0": "Full stack wizard, student, and entrepreneur",
+    "p0": "Full stack wizard, AI enthusiast, and entrepreneur",
     "p1": "Future SWE intern at",
     "p2": "Previously",
     "des0": "I'm a 3rd year computer science specializing in SWE, AI, and business at the University of Waterloo.",
     "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
-    "des2": "My preferred tech stack involves React, NodeJS, and GraphQL, though I'm always excited to flex my other muscles.",
+    "des2": "My preferred web stack involves React, NodeJS, and GraphQL, though I'm always excited to flex my other muscles.",
     "des3": "I'm currently learning about genetic algorithms and developing a starcraft 2 AI with RL and SL."
   },
   "projects": {
