@@ -66,7 +66,7 @@ export const Hero: FC = () => {
         />
         <MediaIcon
           icon={<FaPaperclip className="w-6 h-6 md:w-7 md:h-7 animate-bounce hover:animate-spin" />}
-          href="https://www.dropbox.com/s/qw573dvqjyia7r2/Charles%20Liu%20-%20Software%20Developer.pdf?dl=0"
+          href="https://www.dropbox.com/scl/fi/vjj455ueg8aht8s7nztgy/Charles-Liu-Software-Engineer.pdf?rlkey=75f6efjxmxn511iofpqzxczd1&dl=0"
         />
       </div>
       <div className="mt-10">

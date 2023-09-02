@@ -3,7 +3,7 @@ import { useAnimation } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC, useEffect } from 'react';
 import { FaReact } from 'react-icons/fa';
-import { SiDjango, SiDocker, SiGraphql, SiNodeDotJs } from 'react-icons/si';
+import { SiDocker, SiGraphql, SiNodeDotJs, SiTensorflow } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
 import { AwsIcon, EthereumIcon, MongoIcon, PostgresIcon, TsIcon } from './libs/Icons';
@@ -21,9 +21,9 @@ const skills = [
     icon: <FaReact color="#00D8FF" />,
   },
   {
-    name: 'Django',
-    href: 'https://www.djangoproject.com/',
-    icon: <SiDjango color="#27ab78" />,
+    name: 'TensorFlow',
+    href: 'https://www.tensorflow.org/',
+    icon: <SiTensorflow color="#FF6F00" />,
   },
   {
     name: 'Node.js',
@@ -79,7 +79,7 @@ export const Skills: FC = () => {
   return (
     <Section className="md:mt-20 mt-14" title={t('skills.title')} description={t('skills.description')}>
       <Container>
-        <div className="max-w-lg mt-8 grid grid-cols-2 lg:grid-cols-5 gap-6" ref={ref}>
+        <div className="max-w-xl mt-8 grid grid-cols-2 lg:grid-cols-5 gap-6" ref={ref}>
           {skills.map((skill, i) => (
             <Skill {...skill} key={i} custom={i} controls={controls} />
           ))}

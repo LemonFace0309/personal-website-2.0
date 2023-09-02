@@ -16,17 +16,22 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
+        title: 'Spatial Software Engineer Intern',
+        place: 'New York, NY',
+        date: 'Sept 2023 - Dec 2023',
+      },
+      {
         title: 'CertiK Software Engineer Intern',
         place: 'New York, NY',
         date: 'Jan 2023 - April 2023',
       },
       {
-        title: 'On Deck Full Stack Product Engineer Intern',
+        title: 'On Deck Software Engineer Intern',
         place: 'San Francisco, Ca',
         date: 'Jan 2022 - April 2022',
       },
       {
-        title: 'Enzuzo Full Stack Developer Intern',
+        title: 'Enzuzo Full Software Engineer Intern',
         place: 'Waterloo, On',
         date: 'May 2021 - August 2021',
       },
