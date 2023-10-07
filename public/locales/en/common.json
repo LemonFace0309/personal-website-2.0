@@ -3,13 +3,13 @@
   "header": "Home",
   "hero": {
     "title": "Hi, I'm Charles!",
-    "p0": "Full stack wizard, AI tinkerer, and entrepreneur",
+    "p0": "AI tinkerer, entrepreneur, and full stack wizard performing magic at",
     "p1": "Future SWE intern at",
     "p2": "Previously",
     "des0": "I'm a 3rd year computer science specializing in SWE, AI, and business at the University of Waterloo.",
     "des1": "I love collaborating in teams to create high-quality and sophisticated software.",
-    "des2": "My preferred web stack involves React, NodeJS, and GraphQL, though I'm always excited to flex my other muscles.",
-    "des3": "I'm currently learning about genetic algorithms and developing a starcraft 2 AI with RL and SL."
+    "des2": "I build mostly in TS & Python with strong competences in React, Node, GraphQL, Tensorflow, and SQL dbs, though I'm always excited to flex my other muscles.",
+    "des3": "I'm currently interning in NYC. On the side, I'm building a $10k GPU rig to train my starcraft 2 AI bot with RL and SL."
   },
   "projects": {
     "title": "Projects",

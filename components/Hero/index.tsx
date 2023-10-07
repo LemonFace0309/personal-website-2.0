@@ -41,7 +41,7 @@ export const Hero: FC = () => {
         <HandWave className="text-4xl md:text-5xl" />
       </div>
       <p className="text-xl font-bold tracking-normal md:text-3xl text-black-700 dark:text-white-700">
-        {t('hero.p0')}
+        {t('hero.p0')} <HeroLink title="Spatial" href="https://www.spatial.io/" />
         <br />
         {t('hero.p1')} <HeroLink title="Your Company" href="" disabled />
         <br />

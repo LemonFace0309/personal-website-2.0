@@ -3,13 +3,13 @@
   "header": "首页",
   "hero": {
     "title": "嗨，我是查尔斯！",
-    "p0": "全栈奇才，人工智能爱好者，企业家",
+    "p0": "人工智能修补匠、企业家和全栈奇才在",
     "p1": "未来的 SWE 实习生",
     "p2": "以前",
     "des0": "我是滑铁卢大学计算机科学专业的三年级学生，专攻 SWE、AI 和商业。",
     "des1": "我喜欢在团队中协作来创建高质量和复杂的软件。",
-    "des2": "我最喜欢的技术堆栈包括 React、NodeJS 和 GraphQL，尽管我总是很高兴能够展示我的其他肌肉。",
-    "des3": "我目前正在学习遗传算法并使用 RL 和 SL 开发星际争霸 2 AI。"
+    "des2": "我主要使用 TS 和 Python 进行构建，在 React、Node、GraphQL、Tensorflow 和 SQL 数据库方面拥有强大的能力，尽管我总是很高兴能够展示我的其他肌肉。",
+    "des3": "I'm currently interning in NYC. On the side, I'm building a $10k GPU rig to train my starcraft 2 AI bot with RL and SL。"
   },
   "projects": {
     "title": "项目",
@@ -27,7 +27,7 @@
       "description": "通过在图形界面中可视化我们的最短路径、页面排名和基于邻近度的排序算法，发现 Twitter 上隐藏的关系。"
     }
   },
-   "skills":{
+  "skills": {
     "title": "技能",
     "description": "虽然我总是很高兴使用最新和最伟大的技术，但这些是我在构建任何项目时尝试和测试的工具。"
   },
@@ -42,7 +42,7 @@
   "currently": "目前",
   "citation": {
     "content": "请雇用查尔斯。他很棒！",
-   "author": "——孔子"
+    "author": "——孔子"
   },
   "covid19": "因 Covid-19 而推迟",
   "and": "and",
