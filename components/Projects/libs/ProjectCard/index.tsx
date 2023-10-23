@@ -13,6 +13,7 @@ export const ProjectCard: FC<Props> = ({
   title,
   subtitle,
   description,
+  disclaimer,
   externalLink,
   githubLink,
   technologies,
@@ -35,7 +36,14 @@ export const ProjectCard: FC<Props> = ({
           </a>
           <p className="text-base font-medium md:text-xl dark:text-white-700 text-black-700">{subtitle}</p>
         </div>
-        <p className={clsx(styles.description, rightShift && 'md:ml-auto md:text-right')}>{description}</p>
+        <div className={clsx(styles.description, rightShift && 'md:ml-auto md:text-right')}>
+          <p>{description}</p>
+          {disclaimer && (
+            <b>
+              <p>{disclaimer}</p>
+            </b>
+          )}
+        </div>
         <div className={clsx('flex md:mb-4 mb-2', rightShift && 'md:justify-end')}>
           {technologies.map((tech, i) => (
             <p

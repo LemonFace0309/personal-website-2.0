@@ -31,6 +31,7 @@ export const Projects: FC = () => {
         title: 'Squiggles',
         subtitle: t('projects.squiggles.subtitle'),
         description: t('projects.squiggles.description'),
+        disclaimer: t('projects.squiggles.disclaimer'),
         technologies: ['NextJS', 'GraphQL', 'Neo4J'],
         externalLink: 'https://squiggles.vercel.app/',
         githubLink: 'https://github.com/LemonFace0309/cs348',

@@ -24,7 +24,8 @@
     },
     "squiggles": {
       "subtitle": "Interactive Social Network Graph",
-      "description": "Discover hidden relationships on Twitter by visualizing our shortest path, page rank, and proximity based sorting algorithms on a graph interface."
+      "description": "Discover hidden relationships on Twitter by visualizing our shortest path, page rank, and proximity based sorting algorithms on a graph interface",
+      "disclaimer": "OCTOBER 2023: Website taken down due to expensive hosting fee of Neo4j cluster. This will be replacd with SC2 AI project once filming is complete."
     }
   },
   "skills": {
