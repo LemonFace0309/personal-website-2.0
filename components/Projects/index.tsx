@@ -31,7 +31,7 @@ export const Projects: FC = () => {
         title: 'Treeline',
         subtitle: t('projects.squiggles.subtitle'),
         description: t('projects.squiggles.description'),
-        disclaimer: t('projects.squiggles.disclaimer'),
+        // disclaimer: t('projects.squiggles.disclaimer'),
         technologies: ['NextJS', 'Python', 'Chroma'],
         externalLink: 'https://treeline.vercel.app/',
         githubLink: 'https://github.com/LemonFace0309/my-space',
