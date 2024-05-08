@@ -3,7 +3,7 @@ import { useAnimation } from 'framer-motion';
 import { useTranslation } from 'next-i18next';
 import React, { FC, useEffect } from 'react';
 import { FaReact } from 'react-icons/fa';
-import { SiDocker, SiGraphql, SiNodeDotJs, SiTensorflow } from 'react-icons/si';
+import { SiDocker, SiGraphql, SiNodeDotJs, SiPytorch } from 'react-icons/si';
 import { useInView } from 'react-intersection-observer';
 
 import { AwsIcon, EthereumIcon, MongoIcon, PostgresIcon, TsIcon } from './libs/Icons';
@@ -22,8 +22,8 @@ const skills = [
   },
   {
     name: 'TensorFlow',
-    href: 'https://www.tensorflow.org/',
-    icon: <SiTensorflow color="#FF6F00" />,
+    href: 'https://www.https://pytorch.org/',
+    icon: <SiPytorch color="#FF6F00" />,
   },
   {
     name: 'Node.js',

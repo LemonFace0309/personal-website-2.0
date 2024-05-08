@@ -16,6 +16,11 @@ export const Experience: FC = () => {
   const experience = useMemo(
     () => [
       {
+        title: 'Census Software Engineer Intern',
+        place: 'San Francisco, CA',
+        date: 'May 2024 - August 2024',
+      },
+      {
         title: 'Spatial Software Engineer Intern',
         place: 'New York, NY',
         date: 'Sept 2023 - Dec 2023',
@@ -27,24 +32,24 @@ export const Experience: FC = () => {
       },
       {
         title: 'On Deck Software Engineer Intern',
-        place: 'San Francisco, Ca',
+        place: 'San Francisco, CA',
         date: 'Jan 2022 - April 2022',
       },
       {
         title: 'Enzuzo Full Software Engineer Intern',
-        place: 'Waterloo, On',
+        place: 'Waterloo, ON',
         date: 'May 2021 - August 2021',
       },
       {
         title: 'Freelance Software Developer',
-        place: 'Toronto, On',
+        place: 'Toronto, ON',
         date: 'May 2020 - April 2021',
       },
-      {
-        title: 'Bitcoin Bay Intern',
-        place: 'Toronto, On',
-        date: 'July 2019 - September 2019',
-      },
+      // {
+      //   title: 'Bitcoin Bay Intern',
+      //   place: 'Toronto, On',
+      //   date: 'July 2019 - September 2019',
+      // },
     ],
     []
   );

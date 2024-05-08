@@ -10,13 +10,13 @@ export const Projects: FC = () => {
   const projects = useMemo(
     () => [
       {
-        title: 'MSMR',
+        title: 'Alljoined',
         subtitle: t('projects.msmr.subtitle'),
         description: t('projects.msmr.description'),
-        technologies: ['NextJS', 'Material UI', 'Strapi'],
-        externalLink: 'https://msmrtool.com/',
-        githubLink: 'https://github.com/LemonFace0309/msmr',
-        imageLink: `/images/msmr.jpg`,
+        technologies: ['Python', 'PyTorch', 'Matlab'],
+        externalLink: 'https://arxiv.org/abs/2404.05553',
+        githubLink: 'https://github.com/Alljoined',
+        imageLink: `/images/alljoined.jpg`,
       },
       {
         title: 'UW Cribs',
@@ -28,14 +28,14 @@ export const Projects: FC = () => {
         imageLink: `/images/uwcribs.jpg`,
       },
       {
-        title: 'Squiggles',
+        title: 'Treeline',
         subtitle: t('projects.squiggles.subtitle'),
         description: t('projects.squiggles.description'),
         disclaimer: t('projects.squiggles.disclaimer'),
-        technologies: ['NextJS', 'GraphQL', 'Neo4J'],
-        externalLink: 'https://squiggles.vercel.app/',
-        githubLink: 'https://github.com/LemonFace0309/cs348',
-        imageLink: `/images/squiggles.jpg`,
+        technologies: ['NextJS', 'Python', 'Chroma'],
+        externalLink: 'https://treeline.vercel.app/',
+        githubLink: 'https://github.com/LemonFace0309/my-space',
+        imageLink: `/images/treeline.jpg`,
       },
     ],
     [t]
