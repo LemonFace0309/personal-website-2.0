@@ -16,7 +16,7 @@
     "description": "Here are some of my favourite projects I've lead and developed. Not only were they super fun to code, but many of them are providing utilty to real people today!",
     "msmr": {
       "subtitle": "EEG 2 Image Reconstruction",
-      "description": "Published in CVPR workshop, developed the largest EEG dataset in the world, and currently hacking around with different foundational models to reconstruct images from thoughts."
+      "description": "EEG 2 Image dataset published in CVPR workshop, and currently hacking around with different foundational models to reconstruct images from thoughts."
     },
     "uwcribs": {
       "subtitle": "Waterloo Student Housing Aggregator",
